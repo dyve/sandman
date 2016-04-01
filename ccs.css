@@ -1,0 +1,17 @@
+BODY,TABLE,.normal {
+	font-family: Arial,Helvetica,Sans-Serif;
+	font-size: 11pt;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+	text-transform: none
+}
+
+H1 {
+	font-size: 16pt;
+	font-weight: bold;
+	color: #000000;
+	margin-top: 5;
+	margin-bottom: 5;
+	text-transform: uppercase
+}

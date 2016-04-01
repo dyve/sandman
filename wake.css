@@ -1,0 +1,23 @@
+BODY,TABLE,.normal { font-family: Verdana,Arial,Helvetica; font-size: 10pt; color: #404040;
+                     font-weight: normal; text-decoration: none; text-transform: none }
+
+H1 { font-size: 16pt; font-weight: bold; color: black; margin-top: 5; margin-bottom: 5;
+     text-transform: uppercase }
+H2 { font-size: 14pt; font-weight: bold; color: black; margin-top: 3; margin-bottom: 3 }
+H3 { font-size: 12pt; font-weight: bold; color: black; margin-top: 3; margin-bottom: 1 }
+H4 { font-size: 11pt; font-weight: bold; color: black; margin-top: 3; margin-bottom: 1 }
+H5 { font-size: 10pt; font-weight: bold; color: black; margin-top: 3; margin-bottom: 1 }
+
+A       { color: #0000a0; font-weight: bold; text-decoration: none }
+A:hover { color: #0000ff; }
+
+B { color: black; font-weight: bold }
+
+.fsize12 { font-size: 12pt }
+.fsize11 { font-size: 11pt }
+.fsize9 { font-size: 9pt }
+.fsize8 { font-size: 8pt }
+.fsize7 { font-size: 7pt }
+
+.quote { color: black }
+.black { color: black }
